@@ -37,7 +37,7 @@ You are free to explore this repo in any way you want. However, we would like yo
 - Press launch and wait for the JupyterHub environment to interact with the notebooks in a live environment.
 - Go to the previous-notebooks folder, pick a notebook and run the cells.
 - After the analysis from the previous-notebooks is done, go to the new-notebook folder and run the cells.
-- After the analysis from the new-notebook is done, go to: []() and share your opinion with us!
+- After the analysis from the new-notebook is done, go to: [The Sneak Peek Evaluation](https://forms.gle/BwvP29KR3T2o8MK4A) and share your opinion with us!
 
 For more information:  
 -[Scientific computing: The project repo](https://github.com/Andreatugores/Scientific-computing/)  
