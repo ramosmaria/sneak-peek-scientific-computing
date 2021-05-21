@@ -20,6 +20,7 @@ The repository contains this README file, and a environment.yml file to create a
 _* Note that this notebook is only a preview of what you can find and do with the original Scientific Computing Notebook. It is only intended to compare the previous notebook with the new one. If you want to explore all the analysis, you will have to use the notebook in the Scientific Computing repository*
 
 #### previous-notebooks folder:
+- README: from the previous notebooks.
 - Jupyter Notebooks: you will find two notebooks necessary to perform the analysis and histrograms. The code cells are interspersed with the explanations of the commands in markdown cells.
 - atlas-data: this folder is generated when the notebook is run, the analysis and results are stored in it. 
 
