@@ -10,7 +10,7 @@ Taking advantage of the open science approach of the ATLAS Open Data project, wh
 
 ## Repository structure
 
-The repository contains three folders: **new-notebook**, **previous-notebooks** and **images**.
+The repository contains this README file, and a environment.yml file to create an environment in Binder. It also contains three folders: **new-notebook**, **previous-notebooks** and **images**.
 
 #### new-notebook folder:
 - README: explains how the notebook works, the files, and the results produced by running it.
@@ -32,12 +32,22 @@ Not everyone has the ATLAS Virtual Machine installed on their computers, and alt
 
 ## How to Sneak peek?
 You are free to explore this repo in any way you want. However, we would like you to evaluate our project by comparing the previous notebooks from ATLAS Open Data Jupyter Notebook to the notebook that we have created for our Scientific Computing project. In order to do so, please:
-- Go to [binder](https://mybinder.org/)
-- Paste the url of this repository: ```https://github.com/ramosmaria/sneak-peek-scientific-computing/```
+- Launch binder: 
+- Or go to [binder](https://mybinder.org/) and paste the url of this repository: ```https://github.com/ramosmaria/sneak-peek-scientific-computing/```
 - Press launch and wait for the JupyterHub environment to interact with the notebooks in a live environment.
 - Go to the previous-notebooks folder, pick a notebook and run the cells.
 - After the analysis from the previous-notebooks is done, go to the new-notebook folder and run the cells.
 - After the analysis from the new-notebook is done, go to: [The Sneak Peek Evaluation](https://forms.gle/BwvP29KR3T2o8MK4A) and share your opinion with us!
+
+## Never used a Jupyter?
+
+You just have to open a folder, select the .ipynb files and run the cells!
+
+<img src="images/jupyter001.png" />
+
+And you can open a terminal too:
+
+<img src="images/jupyter002.png" />
 
 For more information:  
 -[Scientific computing: The project repo](https://github.com/Andreatugores/Scientific-computing/)  
