@@ -33,7 +33,7 @@ Not everyone has the ATLAS Virtual Machine installed on their computers, and alt
 
 ## How to Sneak peek?
 You are free to explore this repo in any way you want. However, we would like you to evaluate our project by comparing the previous notebooks from ATLAS Open Data Jupyter Notebook to the notebook that we have created for our Scientific Computing project. In order to do so, please:
-- Launch binder: 
+- Launch binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramosmaria/sneak-peek-scientific-computing/HEAD)
 - Or go to [binder](https://mybinder.org/) and paste the url of this repository: ```https://github.com/ramosmaria/sneak-peek-scientific-computing/```
 - Press launch and wait for the JupyterHub environment to interact with the notebooks in a live environment.
 - Go to the previous-notebooks folder, pick a notebook and run the cells.
